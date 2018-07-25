@@ -1,0 +1,60 @@
+.red {
+    background-color: rgb(170, 3, 3);
+}
+
+.red:hover {
+    background-color: red;
+}
+
+.yellow {
+    background-color: rgb(165, 165, 3);
+}
+
+.yellow:hover {
+    background-color: yellow;
+}
+
+.green {
+    background-color: rgb(1, 54, 1);
+}
+
+.green:hover {
+    background-color: green;
+}
+
+.darkgrey {
+    background-color: darkslategrey
+}
+
+#background {
+    background-color: rgb(41, 36, 36);
+    width: 100vw;
+    height: 100vh;
+}
+
+#lightpost {
+    width: 7vw;
+    height: 15vh;
+    margin: auto;
+}
+
+#lightbody {
+    /*width: 30vw;
+    height: 60vh;*/
+    display: inline-block;
+    margin-left: 37vw;
+    padding: 3vh 3vw;
+}
+
+#circle {
+    height: 20vh;
+    width: 20vw;
+    border-radius: 50%;
+    margin: 1vh auto;
+}
+
+#circle:hover {
+    box-shadow: 0px 0px 30px white;
+}
+
+
